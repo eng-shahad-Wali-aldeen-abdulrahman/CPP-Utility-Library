@@ -31,7 +31,7 @@ Memory Managementnt**: Implementing efficient swapping and data operations.
 ## 🛠 Integration
 Simply include the header in your project:
 ```cpp
-#include "clsUtile.h"
+#include "clsUtil.h"
 ```
 ---
 ### 📜 Acknowledgments
