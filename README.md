@@ -35,4 +35,4 @@ Simply include the header in your project:
 ```
 ---
 ### 📜 Acknowledgments
-*   Special thanks to Programming Advices platform for providing a high-quality technical curriculum that shaped the development of this project.
+*   Special thanks to Programming Advices platform for providing a high-quality technical curriculum that shaped the development of this project .
